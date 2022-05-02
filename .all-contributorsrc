@@ -1,0 +1,14 @@
+{
+  "projectName": "oba-hortifruti",
+  "projectOwner": "acctglobal",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "docs/README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [],
+  "contributorsPerLine": 7
+}

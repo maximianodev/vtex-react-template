@@ -1,0 +1,8 @@
+{
+  "hello": {
+    "component": "Greeting"
+  },
+  "avaliable-quantity-disclaimer": {
+    "component": "AvaliableQuantityDisclaimer"
+  }
+}
